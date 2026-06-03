@@ -43,9 +43,7 @@ Hi, I'm **Blygast**, a Cybersecurity and UX/UI Design enthusiast focused on deve
 | Category     | Tools & Expertise                                    |
 |--------------|------------------------------------------------------|
 | Languages    | Assembly, C, C++, Rust, C#, Python, Java, TypeScript |
-| Design       | Website Design, App Design, Logos
-
-
+| UX/UI Design | Website Design, App Design, Logos                    |
 | Security     | Reverse Engineering, Memory Hacking, Explotation     |
 | Networking   | Web Scraping, HTTP Automation, Proxies, APIs         |
 | Utilities    | Regex, Web Automation, Debugging, File Encryption    |
