@@ -24,7 +24,6 @@ Hi, I'm **Blygast**, a Cybersecurity and UX/UI Design enthusiast focused on deve
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00599C?logo=C%2B%2B&logoColor=white&style=flat-square" alt="C++" />
   <img src="https://img.shields.io/badge/-Cybersecurity-333333?logo=hackthebox&logoColor=green&style=flat-square" alt="Cybersecurity" />
-  <img src="https://img.shields.io/badge/-Game%20Hacking-black?logo=steam&logoColor=white&style=flat-square" alt="Game Modding" />
 </p>
 
 <p align="center">
